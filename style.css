@@ -77,3 +77,6 @@ ul {
 .header p {
   margin-top: 0;
 }
+li.hide {
+  display: none;
+}
